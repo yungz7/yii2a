@@ -7,15 +7,16 @@ $this->title = 'My Yii Application';
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>TEST!</h1>
+        <h1>Yii2 Framework</h1>
 
-        <p class="lead">Test 123</p>
+        <p class="lead">-</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.google.com">Google</a></p>
+        <p><a class="btn btn-lg btn-primary" href="http://localhost/yii2a/backend/web/event">Click here to view events</a></p>
     </div>
 
     <div class="body-content">
 
+    <!--
         <div class="row">
             <div class="col-lg-4">
                 <h2>Heading</h2>
@@ -48,6 +49,7 @@ $this->title = 'My Yii Application';
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
             </div>
         </div>
+    -->
 
     </div>
 </div>
