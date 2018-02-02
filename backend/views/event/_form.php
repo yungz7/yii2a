@@ -26,8 +26,14 @@ use dosamigos\datepicker\DatePicker;
         'clientOptions' => [
             'autoclose' => true,
             'format' => 'yyyy-m-d'
+            //'todayBtn' => true
+            //'format' => 'yyyy-m-d'
         ]
-	]);?>
+	]
+
+
+
+    );?>
 
     <div class="form-group">
         <?= Html::submitButton('Save', ['class' => 'btn btn-success']) ?>
